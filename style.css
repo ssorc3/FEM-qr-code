@@ -30,7 +30,7 @@ body {
     font-family: 'Outfit', sans-serif;
 
     display: grid;
-    place-items: center;
+    place-content: center;
 }
 
 h1 {
