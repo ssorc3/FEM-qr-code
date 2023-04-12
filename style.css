@@ -3,6 +3,9 @@
 .attribution {
     font-size: 11px;
     text-align: center;
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
 }
 
 .attribution a {
@@ -31,6 +34,7 @@ body {
 
     display: grid;
     place-content: center;
+
 }
 
 h1 {
